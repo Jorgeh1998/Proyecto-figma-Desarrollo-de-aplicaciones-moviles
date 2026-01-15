@@ -25,7 +25,7 @@ ya sea feliz, triste, abrumado, ansioso, etc. Agregando tambien la función de p
 red social y finalmente poder rotar de versiculo en versiculo con un solo botón: se adjunta fotos del proyecto:
 
 
-
+![WhatsApp Image 2026-01-15 at 8 03 31 PM](https://github.com/user-attachments/assets/e1029491-3c4c-40bf-99e1-38f0dbc533ae)
 
 
 
