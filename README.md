@@ -12,7 +12,7 @@
 A medida que se ha hecho este proyecto, se ha realizado distintas lluvias de ideas de como seria el programa
 en este caso decidimos hacer una aplicación donde te ayuda dependiendo de tu estado de animo, te aconseja o motiva en tu día a día con palabras de escritores famosos. 
 Primero fuimos por el primer desarrollo que seria un modelo en FIGMA, el cual se adjunta tanto imagenes como el link
-para acceder a dijo proyecto:
+para acceder a dicho proyecto:
 
 <img width="895" height="809" alt="image" src="https://github.com/user-attachments/assets/1b026a7f-8d24-4280-ab6d-086dd1d16bdd" />
 
