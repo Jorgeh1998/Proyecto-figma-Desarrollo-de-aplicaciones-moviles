@@ -24,15 +24,25 @@ actualizamos ciertas cosas como las palabras de los escritores actualizandolo po
 ya sea feliz, triste, abrumado, ansioso, etc. Agregando tambien la función de poder guardarla en una base local, tambien poder compartirla en cualquier
 red social y finalmente poder rotar de versiculo en versiculo con un solo botón: se adjunta fotos del proyecto:
 
-<img src = "https://github.com/user-attachments/assets/e1029491-3c4c-40bf-99e1-38f0dbc533ae" width = "300" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM">
+<img src = "https://github.com/user-attachments/assets/e1029491-3c4c-40bf-99e1-38f0dbc533ae" width = "300" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM"> &nbsp; &nbsp; &nbsp; &nbsp; <img src = "https://github.com/user-attachments/assets/4c3c577a-1000-43ba-95c8-2500f7ed1e97" width = "300" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM (3)">
+
+<img src = "https://github.com/user-attachments/assets/0f14005d-c821-4220-9e59-203db65faa07" width = "300" alt = "WhatsApp Image 2026-01-15 at 8 03 32 PM"> &nbsp; &nbsp; &nbsp; &nbsp; <img src = "https://github.com/user-attachments/assets/bbc930c1-ab4e-4274-a928-b6f94188a4a9" width = "300" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM (1)">
+
+![]()
+
+
 
 ## Pequeño tutorial de uso:
 
-En el paso 1, basicamente escribes tu nombre, (Small fix): Se ha implementado la acción de que si dejas el espacio del nombre sin nada, saltara el error de que "El campo no puede estar vacio".
-Para el paso 2, como sale en la imagen, debes medir cuanto es el nivel de como te sientes, ya sea del "1" que es estar triste hasta el "10" que estar feliz o bien.
-Para el paso 3,
+- En el paso 1, basicamente escribes tu nombre, (Small fix): Se ha implementado la acción de que si dejas el espacio del nombre sin nada, saltara el error de que "El campo no puede estar vacio".
+- Para el paso 2, como sale en la imagen, debes medir cuanto es el nivel de como te sientes, ya sea del "1" que es estar triste hasta el "10" que estar feliz o bien.
+- Para el paso 3, En este paso es para continuar hacia la otra ventana, seleccionas en "Buscar calma" y te redigira a la ventana con los versiculos.
+- Para el paso 4, es solamente para ver los versiculos que te gustaron y los quiciste guardar, pero para que se guarden tienes que hacer clic en el boton "Guardar" de la otra ventana
 
-<img src = "https://github.com/user-attachments/assets/01e3217b-38c4-4ada-ad2e-80b174f1c99d" width = "400" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM"> 
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/01e3217b-38c4-4ada-ad2e-80b174f1c99d" width = "400" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM"> 
+</p>
 
+- Luego de presionar el boton "Buscar calma" te llevara hacia la siguiente pestaña con el versiculo y contendra 3 botones más, el cual uno será para "Guardar" otro para "Compartir" y el ultimo y más importante que es para cambiar de frase "Nuevo". 
 
 
