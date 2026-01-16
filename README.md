@@ -45,4 +45,13 @@ red social y finalmente poder rotar de versiculo en versiculo con un solo botón
 
 - Luego de presionar el boton "Buscar calma" te llevara hacia la siguiente pestaña con el versiculo y contendra 3 botones más, el cual uno será para "Guardar" otro para "Compartir" y el ultimo y más importante que es para cambiar de frase "Nuevo". 
 
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/4c3c577a-1000-43ba-95c8-2500f7ed1e97" width = "300" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM (3)">
+</p>
+
+
+
+## Link Planificador (Trello): https://trello.com/b/FLZRguda/proyecto-aplicaciones-moviles
+
+
 
