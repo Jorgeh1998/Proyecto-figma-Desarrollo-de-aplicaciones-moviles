@@ -24,12 +24,15 @@ actualizamos ciertas cosas como las palabras de los escritores actualizandolo po
 ya sea feliz, triste, abrumado, ansioso, etc. Agregando tambien la función de poder guardarla en una base local, tambien poder compartirla en cualquier
 red social y finalmente poder rotar de versiculo en versiculo con un solo botón: se adjunta fotos del proyecto:
 
+<img src = "https://github.com/user-attachments/assets/e1029491-3c4c-40bf-99e1-38f0dbc533ae" width = "300" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM">
 
-![WhatsApp Image 2026-01-15 at 8 03 31 PM](https://github.com/user-attachments/assets/e1029491-3c4c-40bf-99e1-38f0dbc533ae)
+## Pequeño tutorial de uso:
 
+En el paso 1, basicamente escribes tu nombre, (Small fix): Se ha implementado la acción de que si dejas el espacio del nombre sin nada, saltara el error de que "El campo no puede estar vacio".
+Para el paso 2, como sale en la imagen, debes medir cuanto es el nivel de como te sientes, ya sea del "1" que es estar triste hasta el "10" que estar feliz o bien.
+Para el paso 3,
 
-
-
+<img src = "https://github.com/user-attachments/assets/01e3217b-38c4-4ada-ad2e-80b174f1c99d" width = "400" alt = "WhatsApp Image 2026-01-15 at 8 03 31 PM"> 
 
 
 
