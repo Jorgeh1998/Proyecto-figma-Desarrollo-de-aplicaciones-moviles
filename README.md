@@ -1,8 +1,9 @@
-# Evaluacion parcial 2 (Encargo)
+# Encargo Verso de Esperanza
 
 ### Desarrollo Aplicaciones Moviles
 
-### Profesor: David Osvaldo Larrondo N.
+### Profesor: 
+### David Osvaldo Larrondo N.
 ### Alumnos: 
 ### Jorge Cañas
 ### Priscila Bobadilla
