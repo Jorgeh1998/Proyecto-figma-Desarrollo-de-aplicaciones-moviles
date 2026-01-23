@@ -93,3 +93,7 @@ red social y finalmente poder rotar de versiculo en versiculo con un solo botón
   <img src="https://github.com/user-attachments/assets/17af0e83-cb95-4b06-a85e-7ce9e30af3d6" width="500">
 </p>
 
+- También por otro lado se implementaron las pruebas unitarias
+
+  
+  
